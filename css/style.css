@@ -1,0 +1,52 @@
+.titulo  {
+    margin-bottom: 60px;
+}
+
+#calculadora {
+    padding: 50px;
+    background-color: #f8f9fa;
+    margin-top: 50px;
+}
+
+.topo {
+    font-family: 'Pacifico', cursive;
+    background-color: #158fa2 !important;
+
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 50px;
+}
+
+
+.container a:hover {
+    color: white !important;
+}
+
+img {
+    vertical-align: sub
+}
+
+#btn-calcular {
+    margin-bottom: 25px;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color: #158fa2;
+    margin-top: 70px;
+}
+
+.miu-digital {
+    color: white;
+    font-family: "Overlock SC",Sans-serif;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.miu-digital a {
+    color: white;
+}
